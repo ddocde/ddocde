@@ -102,8 +102,8 @@ Developer Tooling ──────┤
 ## 🛰️ 最近更新 / Recently updated
 
 <!-- recent-projects:start -->
-- [learn_memory](https://github.com/ddocde/learn_memory) — Python · A searchable, syncable project knowledge vault and Claude Code skill. _(2026-09-18)_
 - [dotfiles](https://github.com/ddocde/dotfiles) — Shell · A Shell-first Linux environment manager for repeatable, auditable workstation setup. _(2026-09-18)_
+- [learn_memory](https://github.com/ddocde/learn_memory) — Python · A searchable, syncable project knowledge vault and Claude Code skill. _(2026-09-18)_
 - [Learn_Web-Three](https://github.com/ddocde/Learn_Web-Three) — Solidity · No description yet. _(2024-11-04)_
 - [spider_-](https://github.com/ddocde/spider_-) — HTML · 爬虫项目，爬取链家数据+python可视化 _(2024-04-24)_
 - [MD5_Rust](https://github.com/ddocde/MD5_Rust) — Rust · Rust生成MD5等加密 _(2024-04-01)_
